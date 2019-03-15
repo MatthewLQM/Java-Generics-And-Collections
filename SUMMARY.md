@@ -12,6 +12,7 @@
         * [3.1 Comparable 接口](PartOne/Chapter3/Section01Comparable.md)
         * [3.2 集合中的最大值](PartOne/Chapter3/Section02MaximumOfACollection.md)
         * [3.3 水果的例子](PartOne/Chapter3/Section03AFruityExample.md)
+        * [3.4 Comparator](PartOne/Chapter3/Section04Comparator.md)
 * [第二部分：集合](PartTwo/Collections.md)
 * [关于作者](Authors.md)
 * [后记](Colophon.md)
