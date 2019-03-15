@@ -9,8 +9,9 @@
         * [1.1 泛型](PartOne/Chapter1/SectionOneGenerics.md)  
     * [第二章(暂未完成)]
     * [第三章：比较和界限](PartOne/Chapter3/Introduction.md)
-        * [3.1 Comparable 接口](PartOne/Chapter3/SectionOneComparable.md)
-        * [3.2 集合中的最大值](PartOne/Chapter3/SectionTwoMaximumOfACollection.md)
+        * [3.1 Comparable 接口](PartOne/Chapter3/Section01Comparable.md)
+        * [3.2 集合中的最大值](PartOne/Chapter3/Section02MaximumOfACollection.md)
+        * [3.3 水果的例子](PartOne/Chapter3/Section03AFruityExample.md)
 * [第二部分：集合](PartTwo/Collections.md)
 * [关于作者](Authors.md)
 * [后记](Colophon.md)
